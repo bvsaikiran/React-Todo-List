@@ -16,7 +16,7 @@ class TodoInput extends Component {
                     </div>
                     <button type="submit" className={
                         editItem ? 'btn btn-block text-capitalize bg-success mt-3' :'btn btn-block text-capitalize bg-info mt-3'
-                    } >{editItem ? 'EditItem/Submit': 'add item'}</button>
+                    } >{editItem ? 'Update Item': 'add item'}</button>
                 </form>
             </div>
         )
