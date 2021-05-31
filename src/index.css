@@ -16,7 +16,7 @@ body {
   height: 100%;
   background-color: rgb(218, 217, 215) !important;
   font-family: var(--Oswald) !important;
-  letter-spacing: 1px !important;
+  letter-spacing: 2px !important;
   padding: 2rem 0 !important;
 }
 
